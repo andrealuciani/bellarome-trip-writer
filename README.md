@@ -1,2 +1,2 @@
 # bellarome-trip-writer
-bellarome-trip-writer
+trip-writer
